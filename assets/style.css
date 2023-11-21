@@ -1,0 +1,35 @@
+body {
+    background-color: #28293E;
+    color: #FFF;
+    margin: 0;
+    padding: 0;
+    height: 2841px;
+}
+
+/* PC */
+
+/* Navbar */
+
+@media (min-width: 768px) {
+
+    .navbar {
+        background-color: #000;
+        align-items: center;
+        position: fixed;
+        right: 0;
+        left: 0;
+        top: 0;
+    }
+
+    .navbar .logo{
+        margin-right: 10px;
+    }
+
+    .navbar .raccourcis{
+
+    }
+
+    .navbar .contact{
+
+    }
+}
